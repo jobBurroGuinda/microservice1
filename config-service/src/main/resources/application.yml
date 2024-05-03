@@ -10,6 +10,7 @@ spring:
           search-paths: config-data
           username: ${GIT_USER}
           password: ${GIT_PASSW}
+
   security:
     user:
       name: root
